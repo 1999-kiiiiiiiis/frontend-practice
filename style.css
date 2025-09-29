@@ -1,0 +1,26 @@
+body{
+  background-color: #f0f8ff;
+  font-family: "Comic Sans MS","Arial",sans-serif;
+}
+h1{
+  color:#ff1493;
+  text-align: center;
+}
+p, h2, h3,form{
+  text-align: center;
+}
+ul{
+  background-color: #fffacd;
+  padding: 10px;
+  border-radius:8px;
+  text-align: center;
+}
+table{
+  border-collapse: collapse;
+  margin: 20px auto;
+  background: #ffffff;
+}
+table, th, td{
+  border: 2px solid #ff69b4;
+  padding: 8px;
+}
