@@ -1,6 +1,7 @@
 body{
   background-color: #f0f8ff;
   font-family: "Comic Sans MS","Arial",sans-serif;
+  margin: 20px;
 }
 h1{
   color:#ff1493;
@@ -19,8 +20,39 @@ table{
   border-collapse: collapse;
   margin: 20px auto;
   background: #ffffff;
+  width: 80%;
+}
+th{
+  background-color: #ffb6c1;
+  color: white;
+}
+td{
+  text-align: center;
 }
 table, th, td{
   border: 2px solid #ff69b4;
   padding: 8px;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+  border-radius: 10px;
+}
+input[type="text"],
+input[type="email"]{
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+input[type="submit"]{
+  background-color: #1e90ff;
+  color: white;
+  padding:8px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+input[type="submit"]:hover{
+  background-color: #1c86ee;
 }
