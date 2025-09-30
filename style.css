@@ -4,7 +4,7 @@ body{
   margin: 20px;
 }
 h1{
-  color:#ff1493;
+  color:#1c86ee;
   text-align: center;
 }
 p, h2, h3,form{
@@ -55,4 +55,19 @@ input[type="submit"]{
 }
 input[type="submit"]:hover{
   background-color: #1c86ee;
+}
+header{
+  background-color: #f9f9f9;
+  color:#1c86ee;
+  text-align: center;
+  padding: 20px;
+  border-bottom: 3px solid #103e8b; 
+}
+footer{
+  text-align: center;
+  margin-top: 40px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-top: 2px solid #1090ff;
+  color:#333;
 }
