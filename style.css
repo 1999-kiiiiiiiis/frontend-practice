@@ -70,11 +70,8 @@ footer{
   border-top: 2px solid #1090ff;
   color:#333;
 }
-h1{
-  font-family:'Parisienne' , cursive;
-}
-h2, h3, p{
-  font-family: 'poppins' sans-serif;
+h1 ,main{
+  font-family: "Oswald", sans-serif;
 }
 h2{
   font-size: 1.6em;
